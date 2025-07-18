@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/AshutoshSharma312" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="ashutoshsharma6201@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ashutoshsharma6201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuLClLGJZSWiBiljDmj2prA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://github.com/AshutoshSharma312" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="ashutoshsharma6201@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/ashutosh-sharma-656049370/?trk=opento_sprofile_details" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 **Aspiring Full Stack Developer | CSE Undergrad (2022–2026)**
 💻 Tech Stack: Java, C++, Python, JavaScript, ReactJS, NodeJS, PHP, MySQL
