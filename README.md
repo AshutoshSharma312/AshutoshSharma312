@@ -23,7 +23,7 @@
 
 - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
-- 📂 Portfolio: **<a href="https://ashutoshsharma0.vercel.app" target="_blank">https://ashutoshsharma0.vercel.app</a>**
+- 📂 Portfolio: **<a href="" target="_blank">**
 
  **<h3 align="left">Skills</h3>**
 
