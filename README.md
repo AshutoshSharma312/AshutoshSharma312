@@ -19,11 +19,7 @@
 💻 Tech Stack: Java, C++, Python, JavaScript, ReactJS, NodeJS, PHP, MySQL
 🛠 Tools: VS Code, PyCharm, Git, Linux</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
-- 📂 Portfolio: **<a href="" target="_blank">**
 
  **<h3 align="left">Skills</h3>**
 
