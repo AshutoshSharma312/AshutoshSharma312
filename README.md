@@ -209,21 +209,9 @@ My experience spans:
 - 🥇 **1st Place – Intercollege Ideation (2025)**
 - 💡 **Smart India Hackathon Participant (2024)**
 
----
 
-## 📈 GitHub Activity
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AshutoshSharma312&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshutoshSharma312&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
